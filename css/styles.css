@@ -1,0 +1,18 @@
+.container img {
+  margin: auto;
+  width: 300px;
+  height: 350px;
+  display: block;
+}
+
+.pink-background {
+  background-color: rgb(241, 124, 144);
+}
+
+.blue-background {
+  background-color: rgb(125, 241, 241);
+}
+
+.yellow-background {
+  background-color: rgb(240, 240, 150);
+}
